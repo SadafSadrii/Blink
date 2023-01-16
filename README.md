@@ -2,7 +2,6 @@
 
 The things I have used: Arduino Uno + Breadboard + 7 LEDs of different colors + 7 220 Ohm resistors + 8 Jumper wires 
 
-The 220 Ohm resistor was calculated using the Ohm Law: R = V/I 
-
-V being 5 and current being 0.02A. R= 250 ohm. The closest resistor to which that I had access to was 220
+Using the Ohm law, the resistior suited for the red, green and yellow is 160 Ohm (R= V/I : R = 5-1.8/0.02)
+For the blue LED the desired resistor is 85 (R=5-3.3/0.02)
 
